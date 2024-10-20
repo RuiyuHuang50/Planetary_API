@@ -79,11 +79,15 @@ You can test the API endpoints using Postman. Make sure to use the appropriate H
 Here’s an example of how to test the API endpoint:
 
 1. Open Postman.
-2. Select the HTTP method (GET, POST, etc.).
-3. Enter the URL (e.g., `http://127.0.0.1:5000/api/resource`).
-4. Add any required headers (like `Content-Type: application/json`).
+2. Select the HTTP method (POST).
+3. Enter the URL (e.g., `http://127.0.0.1:5000/login`).
+4. Add any 'body'-'form-data'.
 5. Send the request and observe the response.
+<img width="755" alt="image" src="https://github.com/user-attachments/assets/1f28103e-45ca-47a2-8c9a-4da514d0daa2">
 
+## Retrieve password 
+Use Mailtrap to retrieve password of email
+![image](https://github.com/user-attachments/assets/44df2612-87ef-4deb-b914-b2c93ff00fed)
 
 
    
