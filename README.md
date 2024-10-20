@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In today’s development landscape, building robust APIs is crucial for enabling data exchange between various client applications and endpoints. This project aims to provide fundamental knowledge for developing RESTful APIs using Python and Flask for enabling data exchange between various client applications and endpoints, With a focus on a mobile-first approach, to create, secure, and test effective APIs for web and mobile projects.
+This project aims to provide fundamental knowledge for developing RESTful APIs using Python and Flask for enabling data exchange between various client applications and endpoints, With a focus on a mobile-first approach, to create, secure, and test effective APIs for web and mobile projects.
 
 ## Learning Objectives
 
