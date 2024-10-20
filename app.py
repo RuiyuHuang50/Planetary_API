@@ -14,10 +14,12 @@ app.config['JWT_SECRET_KEY'] = 'super-secret' #change this IRL
 app.config['MAIL_SERVER'] = 'smtp.mailtrap.io'
 app.config['MAIl_USERNAME'] = os.environ.get('MAIL_USERNAME')
 app.config['MAIL_PASSWORD'] = os.environ.get('MAIL_PASSWORD')
+
+#app configuaration from Mailtrap 
 #app.config['MAIL_SERVER'] = 'sandbox.smtp.mailtrap.io'
-#app.config['MAIL_PORT'] = 2525
-#app.config['MAIL_USERNAME'] = 'd9c52f48c0acc0'
-#app.config['MAIL_PASSWORD'] = '********4e34'
+#app.config['MAIL_PORT'] = ***
+#app.config['MAIL_USERNAME'] = '*****'
+#app.config['MAIL_PASSWORD'] = '*****'
 #app.config['MAIL_USE_TLS'] = True
 #app.config['MAIL_USE_SSL'] = False
 db = SQLAlchemy(app)
